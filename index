@@ -1,0 +1,437 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin SEO -->
+
+
+
+
+
+<title>Ming Zhan - Homepage</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="Ming Zhan">
+<meta property="og:title" content="Ming Zhan">
+
+
+  <link rel="canonical" href="https://mingmzhan.github.io/">
+  <meta property="og:url" content="https://mingmzhan.github.io/">
+
+
+
+  <meta property="og:description" content="Incoming PhD student at The University of Utah">
+
+
+
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+<head>
+  <base target="_blank">
+</head>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="manifest" href="images/site.webmanifest">
+
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#about-me">About Me</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-news">News</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-publications">Publications</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-honors-and-awards">Honors and Awards</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-educations">Educations</a></li>
+          
+            <li class="masthead__menu-item"><a href="/#-internships">Internships</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    <div id="main" role="main">
+      
+  <div class="sidebar sticky">
+  
+
+<div itemscope itemtype="http://schema.org/Person" class="profile_box">
+
+  <div class="author__avatar">
+    <img src="images/profile.png" class="author__avatar" alt="Ming Zhan">
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Ming Zhan</h3>
+    <p class="author__bio">University of Utah</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
+    <ul class="author__urls social-icons">
+      
+        <li><div style="white-space: normal; margin-bottom: 1em;">Incoming PhD student at The University of Utah</div></li>
+      
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Utah, USA</li>
+      
+      
+      
+      
+        <li><a href="mailto:zhanming1208@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/MingmZhan"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      
+      
+      
+      
+      
+    </ul>
+      <div class="author__urls_sm">
+      
+      
+        <a href="mailto:zhanming1208@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <a href="https://github.com/MingmZhan"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      
+      
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+  
+  </div>
+
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        <meta itemprop="headline" content="">
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            
+<p><span class="anchor" id="about-me"></span></p>
+
+<h1 id="welcome">Welcome!</h1>
+<p>I am now an incoming PhD student at <a href="https://www.utah.edu/">The University of Utah</a>, <a href="https://www.ece.utah.edu/">ECE</a>. Fortunately, I will be supervised by <a href="https://my.ece.utah.edu/~u6007330/index.html">Prof. Mingyue Ji</a> of EdgeAI Lab from Department of Electrical and Computer Engineeing, University of Utah.</p>
+
+<!--
+From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](/images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
+-->
+
+<p>From 2023 to 2024, I worked at <a href="https://www.doubao.com/chat/">ByteDance - DouBao</a> as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.</p>
+
+<p>In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at <a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750">Workstation of Mao Ming, Academician of Chinese Academy of Sciences</a>, under the supervision of <a href="https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&amp;teacherid=qq2scN_gHl_@_byvOok@JA==">Dr. Jingjing Fan</a>.</p>
+
+<p>My research interest includes Machine Learning, Inverse Reinforcement Learning, and Autonomous Driving Decision Making. <strong>Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.</strong></p>
+
+<p>You can find my CV here: <a href="/assets/Curriculum_Vitae.pdf">Ming Zhan’s Curriculum Vitae</a>. If you are interested in my work, please feel free to drop me an <a href="mailto:zhanming1208@gmail.com">email</a>.</p>
+
+<!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FMingmZhan%2FMingmZhan.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
+
+<!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
+
+<h1 id="-news">🔥 News</h1>
+<ul>
+  <li><em>2024.02</em>:  New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.</li>
+  <li><em>2023.12</em>:  New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.</li>
+  <li><em>2023.10</em>:  🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.</li>
+  <li><em>2023.08</em>:  🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.</li>
+  <li><em>2022.02</em>:  New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.</li>
+</ul>
+
+<h1 id="-publications">📝 Publications</h1>
+<ul>
+  <li>🎓During My Master’s Research Program</li>
+</ul>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">IEEE Access 2023</div><img src="../images/paper1.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://ieeexplore.ieee.org/document/10217826">Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient</a></p>
+
+    <p><strong>Ming Zhan</strong>, Jingjing Fan, Jianying Guo</p>
+
+    <p><a href="https://ieeexplore.ieee.org/document/10217826"><strong>Project</strong></a> | <strong>SCI Journal Paper</strong></p>
+    <ul>
+      <li>IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.</li>
+    </ul>
+  </div>
+</div>
+
+<!--
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+-->
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Sensors 2023</div><img src="../images/paper2.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://www.mdpi.com/1424-8220/23/20/8388">Research on two-stage semi-active ISD suspension based on improved fuzzy neural network PID control</a></p>
+
+    <p>Linhao Jin, Jingjing Fan, Fu Du, <strong>Ming Zhan</strong></p>
+
+    <p><a href="https://www.mdpi.com/1424-8220/23/20/8388"><strong>Project</strong></a> | <strong>SCI Journal Paper</strong></p>
+    <ul>
+      <li>Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICTETS 2023</div><img src="../images/paper3.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short">Research on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning</a></p>
+
+    <p><strong>Ming Zhan</strong>, Jingjing Fan, Linhao Jin</p>
+
+    <p><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short"><strong>Project</strong></a> | <strong>EI International Conference</strong></p>
+    <ul>
+      <li>Proc. SPIE 13064, Seventh International Conference on Traffic Engineering and Transportation System (ICTETS 2023), 130643A (20 February 2024); https://doi.org/10.1117/12.3015773.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ICCIR 2023</div><img src="../images/paper4.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short">Research on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter</a></p>
+
+    <p>Linhao Jin, Jingjing Fan, Fu Du, <strong>Ming Zhan</strong></p>
+
+    <p><a href="https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short"><strong>Project</strong></a> | <strong>EI International Conference</strong></p>
+    <ul>
+      <li>Proc. SPIE 12940, Third International Conference on Control and Intelligent Robotics (ICCIR 2023), 129401G (1 December 2023); https://doi.org/10.1117/12.3010611.</li>
+    </ul>
+  </div>
+</div>
+
+<ul>
+  <li><a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620">Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles</a>, Ren Li, <strong>Ming Zhan</strong>, Jingjing Fan, Auto Know (In Chinese) 2022</li>
+</ul>
+
+<h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
+<ul>
+  <li><em>2024.06</em> Beijing Outstanding Graduate (Top 1%)</li>
+  <li><em>2023.10</em> China National Scholarship (Top 1%)</li>
+  <li><em>2021-2023</em> Outstanding Graduate Student at the School Level (Top 5%)</li>
+  <li><em>2022.10</em> Postgraduate First-Class Scholarship (Top 10%)</li>
+</ul>
+
+<h1 id="-educations">📖 Educations</h1>
+<ul>
+  <li><em>2021.09 - 2024.07</em>, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
+    <ul>
+      <li>Supervised by <a href="https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&amp;teacherid=qq2scN_gHl_@_byvOok@JA==">Dr. Jingjing Fan</a></li>
+    </ul>
+  </li>
+  <li><em>2017.09 - 2021.07</em>, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
+    <ul>
+      <li>Supervised by <a href="https://ccst.jlu.edu.cn/info/1196/17215.htm">Prof. Yanchun Liang</a></li>
+    </ul>
+  </li>
+</ul>
+
+<!--
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
+
+<h1 id="-internships">💻 Internships</h1>
+<ul>
+  <li>🎓During My Master’s Research Program</li>
+</ul>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">ByteDance</div><img src="../images/corpo2.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://www.doubao.com/chat/">DouBao - Large Language Model (LLM) Product</a></p>
+
+    <p><strong>Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science</strong></p>
+    <ul>
+      <li>Advised by Mr. Zhaojian Li</li>
+      <li>Jun. 2023 - Jan. 2024</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Workstation of Mao Ming, Academician, CAS</div><img src="../images/corpo1.png" alt="sym" width="100%" /></div></div>
+<div class="paper-box-text">
+
+    <p><a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750">Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. </a></p>
+
+    <p><strong>Sequence · Research and Development Engineer</strong></p>
+    <ul>
+      <li>Advised by Dr. Jingjing Fan</li>
+      <li>Jul. 2022 - May. 2023</li>
+    </ul>
+  </div>
+</div>
+
+<hr />
+
+<p align="center">
+  <i>I know I am not the perfect one, yet aspire to chase the world and achieve greatness@Ming Zhan</i>
+</p>
+
+          </section>
+        </div>
+      </article>
+    </div>
+
+    <script src="assets/js/main.min.js"></script>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', "");
+</script>
+
+
+<script>
+    $(document).ready(function () {
+        
+        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/MingmZhan/MingmZhan.github.io@'
+        
+        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
+            var totalCitation = data['citedby']
+            document.getElementById('total_cit').innerHTML = totalCitation;
+            var citationEles = document.getElementsByClassName('show_paper_citations')
+            Array.prototype.forEach.call(citationEles, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['num_citations']
+                element.innerHTML = '| Citations: ' + numCitations;
+            });
+        });
+    })
+</script>
+
+
+  </body>
+</html>
